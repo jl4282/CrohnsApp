@@ -37,6 +37,7 @@ NSDate* _storing_chosen_date;
     [self.myscroller setContentSize:(CGSizeMake(320, 800))];
     
     _description.layer.cornerRadius = 5;
+    _description.layer.borderColor = [UIColor grayColor];
     self.myscroller.center = CGPointMake(160, 250);
   
     UITapGestureRecognizer *tap =[[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(dismissKeyBoard)];
