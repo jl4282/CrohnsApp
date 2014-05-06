@@ -278,7 +278,7 @@ NSArray* month_array;
         
         if([_picker selectedRowInComponent:0] == [drinking_array count] - 1)
         {
-            [alcohol_button setTitle:@"M.T. 5 drinks per week" forState:UIControlStateNormal];
+            [alcohol_button setTitle:@"> 5 drinks per week" forState:UIControlStateNormal];
             
         }
         else

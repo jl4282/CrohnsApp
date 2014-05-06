@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/settings.m \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/settings.h
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/settings.m \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/settings.h

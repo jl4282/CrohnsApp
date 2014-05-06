@@ -33,12 +33,14 @@ NSDate* _storing_date_data;
     
     
     [self._scroller setScrollEnabled:YES];
-    [self._scroller setContentSize:(CGSizeMake(320,800))];
+    [self._scroller setContentSize:(CGSizeMake(320,500))];
     
     self._scroller.center = CGPointMake(160,230);
     
     
-   
+    description.layer.cornerRadius = 5;
+    description.layer.borderWidth = 0.5f;
+    description.layer.borderColor = [[UIColor grayColor] CGColor];
     
 
         

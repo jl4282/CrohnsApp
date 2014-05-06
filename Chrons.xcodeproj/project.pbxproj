@@ -44,6 +44,7 @@
 		8895158F1918433A009E3589 /* BM.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895158E1918433A009E3589 /* BM.m */; };
 		8895159219184349009E3589 /* settings.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895159119184349009E3589 /* settings.m */; };
 		8895159519184359009E3589 /* analysis.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895159419184359009E3589 /* analysis.m */; };
+		889F417419185FE100125006 /* LOGButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 889F417319185FE100125006 /* LOGButton.png */; };
 		88AC7DE219172D16009DC02E /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 88AC7DE119172D16009DC02E /* Home.m */; };
 		88AC7DE419173284009DC02E /* mealclicked.png in Resources */ = {isa = PBXBuildFile; fileRef = 88AC7DE319173284009DC02E /* mealclicked.png */; };
 		88AC7DE719173406009DC02E /* ClickedButtons.m in Sources */ = {isa = PBXBuildFile; fileRef = 88AC7DE619173406009DC02E /* ClickedButtons.m */; };
@@ -118,6 +119,7 @@
 		8895159119184349009E3589 /* settings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = settings.m; sourceTree = "<group>"; };
 		8895159319184359009E3589 /* analysis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = analysis.h; sourceTree = "<group>"; };
 		8895159419184359009E3589 /* analysis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = analysis.m; sourceTree = "<group>"; };
+		889F417319185FE100125006 /* LOGButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGButton.png; sourceTree = "<group>"; };
 		88AC7DE019172D16009DC02E /* Home.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
 		88AC7DE119172D16009DC02E /* Home.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
 		88AC7DE319173284009DC02E /* mealclicked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mealclicked.png; sourceTree = "<group>"; };
@@ -238,6 +240,7 @@
 			isa = PBXGroup;
 			children = (
 				56604A5618FF6C8A002EEC24 /* medtimes.png */,
+				889F417319185FE100125006 /* LOGButton.png */,
 				88AC7DF81917524C009DC02E /* analytics tab.png */,
 				88AC7DFA191753CD009DC02E /* home2.png */,
 				88AC7DE319173284009DC02E /* mealclicked.png */,
@@ -362,6 +365,7 @@
 				56604A5E18FF6C8A002EEC24 /* BM.png in Resources */,
 				88AC7DE419173284009DC02E /* mealclicked.png in Resources */,
 				88AC7DFB191753CD009DC02E /* home2.png in Resources */,
+				889F417419185FE100125006 /* LOGButton.png in Resources */,
 				56604A5C18FF6C8A002EEC24 /* medtimes.png in Resources */,
 				7115B4D219181683009D8C9F /* splashScreen.png in Resources */,
 				56A0BD0A18F0F8C200B07008 /* InfoPlist.strings in Resources */,

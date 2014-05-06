@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/StringAndNumber.m \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/StringAndNumber.h
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/StringAndNumber.m \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/StringAndNumber.h

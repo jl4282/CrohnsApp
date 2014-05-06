@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/ClickedButtons.m \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/ClickedButtons.h
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/ClickedButtons.m \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/ClickedButtons.h

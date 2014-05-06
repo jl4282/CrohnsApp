@@ -41,6 +41,7 @@ CGSize pageSize;
     // Do any additional setup after loading the view.
     
     title_label.text = @"Family medication background\n Hit Back When finished";
+    //self.mother_info
     
     [self._scroller setScrollEnabled:YES];
     

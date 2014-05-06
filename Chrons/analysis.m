@@ -24,7 +24,7 @@
 //@synthesize mainTable;
 - (void)viewDidLoad
 {
-    self.tabBarController.title = @"How can we help?";
+    self.tabBarController.title = @"Analytics";
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     //[self->mainTable reloadData];

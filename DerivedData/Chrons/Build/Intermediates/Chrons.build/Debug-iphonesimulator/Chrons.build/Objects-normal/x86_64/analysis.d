@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/analysis.m \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/analysis.h \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/SQLiteFunctions.h \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/FoodPainAndCount.h \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/StringAndNumber.h
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/analysis.m \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/analysis.h \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SQLiteFunctions.h \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/FoodPainAndCount.h \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/StringAndNumber.h

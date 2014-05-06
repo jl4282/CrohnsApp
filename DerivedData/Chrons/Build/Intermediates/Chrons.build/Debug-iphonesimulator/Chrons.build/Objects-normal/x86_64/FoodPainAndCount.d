@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/FoodPainAndCount.m \
-  /Users/jesse/Documents/Final\ Proj\ Crohn's/Chrons-hanmergetry/Chrons/FoodPainAndCount.h
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/FoodPainAndCount.m \
+  /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/FoodPainAndCount.h

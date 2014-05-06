@@ -21,6 +21,7 @@
 
 -(void) viewDidLoad
 {
+    self.tabBarController.title = @"Information";
     [text_view setEditable:FALSE];
     
 }

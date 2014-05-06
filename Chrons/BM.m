@@ -47,6 +47,8 @@ NSDate* _storing_date_data;
 - (void)viewDidLoad
 {
     _description.layer.cornerRadius = 5;
+    _description.layer.borderWidth = 0.5f;
+    _description.layer.borderColor = [[UIColor grayColor] CGColor];
     
     [super viewDidLoad];
     [super viewDidLoad];
