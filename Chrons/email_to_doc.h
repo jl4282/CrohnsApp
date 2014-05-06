@@ -14,6 +14,7 @@
 
 @property (weak, nonatomic) IBOutlet UITextField *dname_tf;
 @property (weak, nonatomic) IBOutlet UITextField *demail_tf;
+@property (weak, nonatomic) IBOutlet UITextView *dnote_tf;
 
 
 - (IBAction)sendEmail:(id)sender;

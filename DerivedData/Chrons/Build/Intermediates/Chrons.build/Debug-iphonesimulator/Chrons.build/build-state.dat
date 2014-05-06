@@ -4,17 +4,17 @@ r1
 cCheck dependencies
 cProcessPCH /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch.pch Chrons/Chrons-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/ViewController.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/settings.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/settings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Home.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Home.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/tabViewController.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/tabViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/ClickedButtons.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/ClickedButtons.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/analysis.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/analysis.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/SQLiteFunctions.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SQLiteFunctions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/settings.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/settings.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/AppDelegate.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/StringAndNumber.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/StringAndNumber.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -24,19 +24,23 @@ cLd /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Produ
 cCpResource Chrons/settings.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/settings.png
 cCpResource Chrons/data.db DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db
 cCpResource Chrons/badFoods.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/badFoods.png
+cCpResource Chrons/envelope.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png
 cCpResource Chrons/pain.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png
+cCpResource Chrons/LOGButton2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png
+cCpResource Chrons/qmark2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png
+cCpResource Chrons/SendMail2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png
+cCompileStoryboard /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard
 cCpResource Chrons/applogo.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/applogo.png
 cCpResource Chrons/meal.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/meal.png
-cCpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.png
-cCpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png
 cCpResource Chrons/BM.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/BM.png
 cCpResource Chrons/mealclicked.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/mealclicked.png
 cCpResource Chrons/home2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/home2.png
+cCpResource Chrons/SendMail.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png
 cCpResource Chrons/LOGButton.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.png
 cCpResource Chrons/medtimes.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/medtimes.png
 cCpResource Chrons/splashScreen.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/splashScreen.png
 cCopyStringsFile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/en.lproj/InfoPlist.strings Chrons/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard
+cCpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.png
 cCompileAssetCatalog /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets
 cProcessInfoPlistFile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist
 cGenerateDSYMFile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
@@ -623,8 +627,8 @@ t1399330710
 s1183
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m
-c00000000536839AC0000000000001495
-t1399339436
+c0000000053685F990000000000001495
+t1399349145
 s5269
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.png
@@ -673,8 +677,8 @@ t1399335550
 s1177
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets
-c00000000536817960000000000000110
-t1399330710
+c00000000536860320000000000000110
+t1399349298
 s272
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/LOGButton.png
@@ -682,10 +686,15 @@ c000000005368284D0000000000001FB7
 t1399334989
 s8119
 
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/LOGButton2.png
+c0000000053685EBD000000000000112B
+t1399348925
+s4395
+
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard
-c0000000053683E61000000000001946D
-t1399340641
-s103533
+c0000000053685F260000000000019BF0
+t1399349030
+s105456
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SQLiteFunctions.h
 c00000000536817960000000000000C8F
@@ -696,6 +705,16 @@ N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SQLiteFunctions.m
 c000000005368179600000000000065D9
 t1399330710
 s26073
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SendMail.png
+c000000005368573F0000000000008AF5
+t1399347007
+s35573
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SendMail2.png
+c0000000053685A320000000000001BB0
+t1399347762
+s7088
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/StringAndNumber.h
 c00000000536817960000000000000168
@@ -728,9 +747,9 @@ t1399335664
 s10146
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/analytics tab.png
-c0000000053681796000000000000CEF3
-t1399330710
-s52979
+c000000005368495B000000000000058A
+t1399343451
+s1418
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/applogo.png
 c0000000053681796000000000000379D
@@ -748,19 +767,24 @@ t1399330710
 s26624
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.h
-c000000005368179600000000000001B3
-t1399330710
-s435
+c0000000053685C5C00000000000001EE
+t1399348316
+s494
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m
-c0000000053681796000000000000066B
-t1399330710
-s1643
+c0000000053685C590000000000000719
+t1399348313
+s1817
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/en.lproj/InfoPlist.strings
 c0000000053681796000000000000002D
 t1399330710
 s45
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/envelope.png
+c000000005368539A0000000000002B46
+t1399346074
+s11078
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.h
 c0000000053681796000000000000020E
@@ -768,9 +792,9 @@ t1399330710
 s526
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m
-c00000000536817960000000000000C4E
-t1399330710
-s3150
+c00000000536841790000000000000E21
+t1399341433
+s3617
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/home2.png
 c00000000536817960000000000000F0C
@@ -783,14 +807,14 @@ t1399330710
 s394
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m
-c0000000053682AF8000000000000016B
-t1399335672
-s363
+c0000000053685D7D00000000000001C2
+t1399348605
+s450
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/infotab2.png
-c0000000053681796000000000000C164
-t1399330710
-s49508
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/main.m
 c0000000053681796000000000000014F
@@ -803,8 +827,8 @@ t1399330710
 s1174
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m
-c00000000536828BA000000000000169A
-t1399335098
+c0000000053685F80000000000000169A
+t1399349120
 s5786
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.png
@@ -828,14 +852,24 @@ t1399330710
 s968
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m
-c000000005368379300000000000011D8
-t1399338899
+c0000000053685F8700000000000011D8
+t1399349127
 s4568
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.png
 c0000000053681796000000000000871A
 t1399330710
 s34586
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/qmark.png
+c0000000053684BF20000000000008997
+t1399344114
+s35223
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/qmark2.png
+c00000000536850450000000000000566
+t1399345221
+s1382
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/settings.h
 c000000005368179600000000000003C5
@@ -872,7 +906,7 @@ t1399333375
 s76976
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o
-t1399339500
+t1399349306
 s100728
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Chrons.LinkFileList
@@ -909,27 +943,27 @@ t1399335879
 s86148
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o
-t1399333374
-s58364
+t1399348320
+s63704
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o
-t1399333375
-s65104
+t1399341461
+s67344
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o
-t1399335879
-s61952
+t1399348611
+s62540
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/main.o
 t1399333375
 s3780
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o
-t1399335102
+t1399349306
 s90840
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o
-t1399338915
+t1399349306
 s94092
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/settings.o
@@ -941,11 +975,11 @@ t1399333374
 s42852
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_dependencies.txt
-t1399331942
-s642
+t1399349315
+s582
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_generated_info.plist
-t1399331885
+t1399349315
 s709
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch.pch
@@ -953,11 +987,11 @@ t1399333374
 s117032
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app
-t1399340646
-s816
+t1399349312
+s986
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM
-t1399340479
+t1399348612
 s102
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/BM.png
@@ -965,28 +999,40 @@ t1399331882
 s5233
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
-t1399340641
-s195108
+t1399349307
+s195620
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist
-t1399331889
+t1399349315
 s1013
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.png
 t1399335103
 s8119
 
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png
+t1399349030
+s4395
+
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Main.storyboardc
-t1399340646
+t1399349036
 s646
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/PkgInfo
-t1399331889
+t1399349315
 s8
 
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png
+t1399347164
+s35573
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png
+t1399348321
+s7088
+
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics tab.png
-t1399331882
-s52979
+t1399343632
+s1418
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/applogo.png
 t1399331882
@@ -1004,13 +1050,17 @@ N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products
 t1399331882
 s42
 
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png
+t1399346241
+s11078
+
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/home2.png
 t1399331882
 s3852
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png
-t1399331882
-s49508
+t2
+s0
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/meal.png
 t1399331882
@@ -1027,6 +1077,14 @@ s7949
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png
 t1399331882
 s34586
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png
+t1399344168
+s35223
+
+N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png
+t1399345676
+s1382
 
 N/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/settings.png
 t1399331882
@@ -1265,10 +1323,23 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies501a96e17518b941^bc5799e17518b941^---0#1#1#--18"Check dependencies36"FD2AAC2F-DC63-4D9C-9FD1-8625C8AC686D-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd74bdfb89718b941^b8ccf1b89718b941^---0#1#1#--18"Check dependencies36"AC646A26-DA01-4204-AB9D-E4E182458C8B-
 
 CCompileAssetCatalog /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets
-r0
+s421042107.367204
+e421042115.257771
+r1
+xCompileAssetCatalog
+x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app
+x/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/AppIcon60x60@2x.png
+o/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LaunchImage-700-568h@2x.png
+o/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Assets.car
+o/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CompileAssetCatalog DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app Chrons/Images.xcassets109"CompileAssetCatalog DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app Chrons/Images.xcassetsca195ebb9718b941^8bfd41c39718b941^-609"/* com.apple.actool.compilation-results *//Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/AppIcon60x60@2x.png/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LaunchImage-700-568h@2x.png/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Assets.car/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets/0000000000000000^1241"CompileAssetCatalog DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app Chrons/Images.xcassets    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Images.xcassets36"3EADFC22-4229-4185-A1A6-46CF452D3165-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CCompileAssetCatalog /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/Images.xcassets
 s421020520.927038
@@ -1331,8 +1402,8 @@ CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimula
 r0
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421032297.086263
-e421032300.848624
+s421042104.948358
+e421042106.402501
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o
@@ -1350,8 +1421,8 @@ o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m:169:54: warning: form
 o    _storing_time_data = [NSString stringWithFormat: formattedDateString];
 o                                                     ^~~~~~~~~~~~~~~~~~~
 o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m204"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler294216697118b941^1041d96c7118b941^-325"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m:169:54: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    _storing_time_data = [NSString stringWithFormat: formattedDateString];                                                     ^~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-421032300#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^168#53#168#53#4282#0#19"Format String Issue1(3@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^168#53#168#72#4282#0#-0#0#1#-19%DVTDocumentLocation4@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^3937"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o36"91E95B63-3B65-42C0-844B-E49D334B8295-
-b0CEA8224-90F4-4B20-AE1D-46278B373069
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m204"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7eef2b89718b941^280b67ba9718b941^-325"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m:169:54: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    _storing_time_data = [NSString stringWithFormat: formattedDateString];                                                     ^~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-421042106#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^168#53#168#53#4282#0#19"Format String Issue1(3@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^168#53#168#72#4282#0#-0#0#1#-19%DVTDocumentLocation4@73"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m0000000000000000^3937"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o Chrons/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/BM.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o36"808DD092-B0ED-4C36-AD7B-C5D1310C5AB5-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/BM.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/BM.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
@@ -1692,8 +1763,8 @@ CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimula
 r0
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421026174.296214
-e421026174.737737
+s421041116.604449
+e421041120.244661
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o
@@ -1704,8 +1775,8 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m
 d/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m224"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler06f74b7e5918b941^8f71bd7e5918b941^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m0000000000000000^3997"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o36"C550BE25-64C1-4DD6-B0C4-B5F4B4F0D8B4-
-bFE19EB09-A927-4F52-9D8F-A6D1D44A95A6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m224"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler01de9adc9318b941^33a43ee09318b941^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m0000000000000000^3997"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/email_to_doc.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o36"031DF851-4482-4366-99A3-B6ED333010C0-
+bB0A41359-92DF-4885-BB60-2142A5E59AE5
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/email_to_doc.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/email_to_doc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421020519.015935
@@ -1724,8 +1795,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421026175.044264
-e421026175.173375
+s421034259.379270
+e421034261.504847
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o
@@ -1736,21 +1807,21 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m
 d/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.h
-o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:51:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
+o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:61:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
 o    self.father_info.delegate = self;
 o                              ^ ~~~~
-o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:52:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
+o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:62:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
 o    self.mother_info.delegate = self;
 o                              ^ ~~~~
-o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:53:30: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
+o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:63:30: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'
 o    self.other_info.delegate = self;
 o                             ^ ~~~~
-o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:81:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:91:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
 o    NSLog(pdf_location);
 o          ^~~~~~~~~~~~
 o4 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m228"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb750b7f5918b941^70b0337f5918b941^-1000"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:51:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.father_info.delegate = self;                              ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:52:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.mother_info.delegate = self;                              ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:53:30: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.other_info.delegate = self;                             ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:81:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSLog(pdf_location);          ^~~~~~~~~~~~4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421026175#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^50#30#50#30#995#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^50#32#50#36#997#0#-2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421026175#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^51#30#51#30#1033#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^51#32#51#36#1035#0#-2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421026175#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^52#29#52#29#1070#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^52#31#52#35#1072#0#-2@60"Format string is not a string literal (potentially insecure)-421026175#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^80#10#80#10#1781#0#19"Format String Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^80#10#80#22#1781#0#-0#0#1#-19%DVTDocumentLocation4@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^4009"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o36"793540BD-9DA5-4C44-8CED-2CD2DFED9FE3-
-bFE19EB09-A927-4F52-9D8F-A6D1D44A95A6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m228"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilereb3961137918b941^9b3c81157918b941^-1000"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:61:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.father_info.delegate = self;                              ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:62:31: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.mother_info.delegate = self;                              ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:63:30: warning: assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'    self.other_info.delegate = self;                             ^ ~~~~/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m:91:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSLog(pdf_location);          ^~~~~~~~~~~~4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421034261#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^60#30#60#30#1462#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^60#32#60#36#1464#0#-2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421034261#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^61#30#61#30#1500#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^61#32#61#36#1502#0#-2@93"Assigning to 'id<UITextViewDelegate>' from incompatible type 'family_history *const __strong'-421034261#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^62#29#62#29#1537#0#14"Semantic Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^62#31#62#35#1539#0#-2@60"Format string is not a string literal (potentially insecure)-421034261#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^90#10#90#10#2248#0#19"Format String Issue1(3@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^90#10#90#22#2248#0#-0#0#1#-19%DVTDocumentLocation4@85"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m0000000000000000^4009"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/family_history.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o36"5ED88A6E-B188-4448-9566-775EB694B9DB-
+b67F6C872-47CF-42DF-8031-D471DE694126
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/family_history.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/family_history.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421020520.061310
@@ -1782,8 +1853,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421028674.982769
-e421028679.548816
+s421041407.774334
+e421041411.491677
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o
@@ -1820,8 +1891,8 @@ o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:14:12: note:
 o@interface information : UIViewController <UITableViewDelegate, UITableViewDataSource>
 o           ^
 o2 warnings generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m222"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfdddfb426318b941^b876be476318b941^-2020"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:16:17: warning: method 'tableView:numberOfRowsInSection:' in protocol not implemented [-Wprotocol]@implementation information                ^In module 'UIKit' imported from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:255:1: note: method 'tableView:numberOfRowsInSection:' declared here- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section;^In file included from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:9:/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:14:12: note: required for direct or indirect protocol 'UITableViewDataSource'@interface information : UIViewController <UITableViewDelegate, UITableViewDataSource>           ^/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:16:17: warning: method 'tableView:cellForRowAtIndexPath:' in protocol not implemented [-Wprotocol]@implementation information                ^In module 'UIKit' imported from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:260:1: note: method 'tableView:cellForRowAtIndexPath:' declared here- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath;^In file included from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:9:/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:14:12: note: required for direct or indirect protocol 'UITableViewDataSource'@interface information : UIViewController <UITableViewDelegate, UITableViewDataSource>           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@69"Method 'tableView:numberOfRowsInSection:' in protocol not implemented-421028679#18446744073709551615#0#2(2@55"Method 'tableView:numberOfRowsInSection:' declared here-421028679#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@195"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^254#0#254#0#18097#0#14"Semantic Issue--2@64"Required for direct or indirect protocol 'UITableViewDataSource'-421028679#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h0000000000000000^13#11#13#11#250#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^15#16#15#16#204#0#14"Semantic Issue--2@69"Method 'tableView:cellForRowAtIndexPath:' in protocol not implemented-421028679#18446744073709551615#0#2(2@55"Method 'tableView:cellForRowAtIndexPath:' declared here-421028679#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@195"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^259#0#259#0#18504#0#14"Semantic Issue--2@64"Required for direct or indirect protocol 'UITableViewDataSource'-421028679#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h0000000000000000^13#11#13#11#250#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^15#16#15#16#204#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^3991"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o36"7DF14C78-727A-4492-9F9F-1F5FEFEA6485-
-b6A73F16A-AB92-4900-9117-FD90CBCA7565
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m222"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf758c6ff9418b941^05de7d039518b941^-2020"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:16:17: warning: method 'tableView:numberOfRowsInSection:' in protocol not implemented [-Wprotocol]@implementation information                ^In module 'UIKit' imported from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:255:1: note: method 'tableView:numberOfRowsInSection:' declared here- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section;^In file included from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:9:/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:14:12: note: required for direct or indirect protocol 'UITableViewDataSource'@interface information : UIViewController <UITableViewDelegate, UITableViewDataSource>           ^/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:16:17: warning: method 'tableView:cellForRowAtIndexPath:' in protocol not implemented [-Wprotocol]@implementation information                ^In module 'UIKit' imported from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h:260:1: note: method 'tableView:cellForRowAtIndexPath:' declared here- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath;^In file included from /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m:9:/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h:14:12: note: required for direct or indirect protocol 'UITableViewDataSource'@interface information : UIViewController <UITableViewDelegate, UITableViewDataSource>           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@69"Method 'tableView:numberOfRowsInSection:' in protocol not implemented-421041411#18446744073709551615#0#2(2@55"Method 'tableView:numberOfRowsInSection:' declared here-421041411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@195"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^254#0#254#0#18097#0#14"Semantic Issue--2@64"Required for direct or indirect protocol 'UITableViewDataSource'-421041411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h0000000000000000^13#11#13#11#250#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^15#16#15#16#204#0#14"Semantic Issue--2@69"Method 'tableView:cellForRowAtIndexPath:' in protocol not implemented-421041411#18446744073709551615#0#2(2@55"Method 'tableView:cellForRowAtIndexPath:' declared here-421041411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@195"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableView.h0000000000000000^259#0#259#0#18504#0#14"Semantic Issue--2@64"Required for direct or indirect protocol 'UITableViewDataSource'-421041411#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.h0000000000000000^13#11#13#11#250#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^15#16#15#16#204#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@82"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m0000000000000000^3991"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/information.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o36"B2DD8758-E3A4-4B68-A98A-432CE2558F4E-
+b55A10771-F12B-470E-880A-EDD8292C629A
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/information.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/information.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421020519.016241
@@ -1904,8 +1975,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421027898.711736
-e421027902.478270
+s421042104.948329
+e421042106.402503
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o
@@ -1923,8 +1994,8 @@ o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m:120:19: warning: im
 o        int len = [self._food.text length];
 o            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~
 o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m208"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler035eb63a6018b941^db6e7a3e6018b941^-295"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m:120:19: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int len = [self._food.text length];            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@88"Implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int'-421027902#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#18#119#18#2800#0#22"Value Conversion Issue2(3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#18#119#42#2800#23#3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#12#119#15#2794#0#-0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^3949"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o36"155D14E4-BBBB-4BB4-B75B-66FC38BE307F-
-b323090A1-F233-4E69-B094-64E73228A4F8
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m208"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9aedf2b89718b941^060f67ba9718b941^-295"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m:120:19: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]        int len = [self._food.text length];            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@88"Implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int'-421042106#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#18#119#18#2800#0#22"Value Conversion Issue2(3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#18#119#42#2800#23#3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^119#12#119#15#2794#0#-0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m0000000000000000^3949"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/meal.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o36"A857C6DB-EB3E-4090-9B21-EF28CCB6A4E2-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/meal.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/meal.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421020519.015945
@@ -1950,8 +2021,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421031714.946855
-e421031715.071203
+s421042104.948584
+e421042106.398445
 r1
 xCompileC
 xDerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o
@@ -1969,8 +2040,8 @@ o/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m:98:54: warning: for
 o    _storing_time_data = [NSString stringWithFormat: formattedDateString];
 o                                                     ^~~~~~~~~~~~~~~~~~~
 o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m208"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f82f2226f18b941^c53912236f18b941^-326"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m:98:54: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    _storing_time_data = [NSString stringWithFormat: formattedDateString];                                                     ^~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-421031715#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^97#53#97#53#2332#0#19"Format String Issue1(3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^97#53#97#72#2332#0#-0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^3949"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o36"9B455E3A-8217-451F-8680-1BE809576759-
-b6BCD7A33-69C2-49C6-A090-754C4A8DC542
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m208"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3cf7f2b89718b941^320266ba9718b941^-326"/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m:98:54: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    _storing_time_data = [NSString stringWithFormat: formattedDateString];                                                     ^~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format string is not a string literal (potentially insecure)-421042106#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^97#53#97#53#2332#0#19"Format String Issue1(3@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^97#53#97#72#2332#0#-0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m0000000000000000^3949"CompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-generated-files.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-own-target-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-all-target-headers.hmap -iquote /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Chrons-project-headers.hmap -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources/x86_64 -I/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/DerivedSources -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -include /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/PrecompiledHeaders/Chrons-Prefix-fbvlvtszjlfmfafjxcmdauxmjtlk/Chrons-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.d --serialize-diagnostics /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.dia -c /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/pain.m -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o36"4650CF10-AEFC-4973-B9D0-9AAD10D53E59-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/pain.o /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/pain.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421020519.810084
@@ -2086,13 +2157,13 @@ CCompileC DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimula
 r0
 
 CCompileStoryboard /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard
-s421033441.753285
-e421033446.613350
+s421041830.401952
+e421041837.106970
 r1
 xCompileStoryboard
 x/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"CompileStoryboard Chrons/Main.storyboard40"CompileStoryboard Chrons/Main.storyboard2dedc0e17518b941^36069de67518b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard0000000000000000^843"CompileStoryboard Chrons/Main.storyboard    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Main.storyboardc /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard36"2BC045D5-69AB-4AFC-89D9-802ABFC9FCD8-
-bE38677EE-F0EB-43BF-83DA-41BF87E8CA5F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"CompileStoryboard Chrons/Main.storyboard40"CompileStoryboard Chrons/Main.storyboard7afc66a69618b941^2c631bad9618b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard0000000000000000^843"CompileStoryboard Chrons/Main.storyboard    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Main.storyboardc /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Main.storyboard36"F0CCA6C7-2988-4487-B728-730C925F7D5E-
+b7E05545D-F3D7-47F1-820A-1F9C7C1E2F22
 
 CCompileStoryboard /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/Main.storyboard
 s421020520.860870
@@ -2136,15 +2207,45 @@ xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.pn
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.png112"CpResource Chrons/LOGButton.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.pngd61c9c3f6018b941^45bd9c3f6018b941^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.png0038b0eedcffdf42^653"CpResource Chrons/LOGButton.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/LOGButton.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"5F071BFD-98DF-4447-BC7D-B4A7F6987E70-
 b323090A1-F233-4E69-B094-64E73228A4F8
 
+CCpResource Chrons/LOGButton2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png
+s421041830.401938
+e421041830.404078
+r1
+xCpResource
+xChrons/LOGButton2.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png114"CpResource Chrons/LOGButton2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png9cf866a69618b941^c93882a69618b941^---0#0#1#-19%DVTDocumentLocation2@143"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png0038b0eedcffdf42^656"CpResource Chrons/LOGButton2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/LOGButton2.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/LOGButton2.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"B41797EE-3808-46BD-9153-EC2AF71799E0-
+b7E05545D-F3D7-47F1-820A-1F9C7C1E2F22
+
+CCpResource Chrons/SendMail.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png
+s421039964.041764
+e421039964.044205
+r1
+xCpResource
+xChrons/SendMail.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png110"CpResource Chrons/SendMail.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.pngbcca0a5c8f18b941^98db295c8f18b941^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png0038b0eedcffdf42^650"CpResource Chrons/SendMail.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SendMail.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"2A7BBCF1-13AA-4DDC-A751-1CEF8BE5AD68-
+b2AFEB6D8-A83C-46A3-8CF6-9567FDBD0263
+
+CCpResource Chrons/SendMail2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png
+s421041121.106560
+e421041121.108843
+r1
+xCpResource
+xChrons/SendMail2.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png112"CpResource Chrons/SendMail2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png18601be19318b941^ecdd1be19318b941^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png0038b0eedcffdf42^653"CpResource Chrons/SendMail2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/SendMail2.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/SendMail2.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"1F9A007A-8FA1-4DB1-BB43-9FA2CFEE6692-
+bB0A41359-92DF-4885-BB60-2142A5E59AE5
+
 CCpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.png
-s421020520.861459
-e421020520.903784
+s421036432.988005
+e421036432.990579
 r1
 xCpResource
 xChrons/analytics tab.png
 xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics tab.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics tab.png122"CpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.pngb2a0dc684318b941^d060e7684318b941^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/jesse/Documents/Final%20Proj%20Crohn's/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics%20tab.png0038b0eedcffdf42^721"CpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.png    cd "/Users/jesse/Documents/Final Proj Crohn's/Chrons-hanmergetry"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/analytics\ tab.png /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"0A13FFCE-A0B3-49EC-9C68-5CA8AD42F075-
-b49329A24-31D2-4F0F-8D8A-771D1297F31C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics tab.png122"CpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.pnga8fffc908118b941^d09d00918118b941^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics%20tab.png0000000000000000^668"CpResource Chrons/analytics\ tab.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/analytics\ tab.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/analytics\ tab.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"DD074115-65D3-43B8-A4FC-73AB952300C1-
+b4BD00E90-68D5-47E5-B68D-ACAD7122168B
 
 CCpResource Chrons/applogo.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/applogo.png
 s421020520.861366
@@ -2176,6 +2277,16 @@ xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db100"CpResource Chrons/data.db DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db8106cb684318b941^f60ddc684318b941^---0#0#1#-19%DVTDocumentLocation2@155"file://localhost/Users/jesse/Documents/Final%20Proj%20Crohn's/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db0038b0eedcffdf42^688"CpResource Chrons/data.db DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/data.db    cd "/Users/jesse/Documents/Final Proj Crohn's/Chrons-hanmergetry"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/data.db /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"8728B1F5-789F-4D84-B301-A43198B0C2C2-
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
+CCpResource Chrons/envelope.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png
+s421039041.626247
+e421039041.656862
+r1
+xCpResource
+xChrons/envelope.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png110"CpResource Chrons/envelope.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.pngda70a0c18b18b941^dafeb5c18b18b941^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png0038b0eedcffdf42^650"CpResource Chrons/envelope.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/envelope.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/envelope.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"67372D0F-1781-4BF9-8ACD-522E7A191043-
+b61E388C9-8465-4462-94BE-F2CA9BBD9119
+
 CCpResource Chrons/home2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/home2.png
 s421020520.905227
 e421020520.917593
@@ -2187,14 +2298,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy De
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CCpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png
-s421020520.867320
-e421020520.870422
-r1
+s421038476.899584
+e421038477.187134
+r0
 xCpResource
 xChrons/infotab2.png
 xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png110"CpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png2e1ade684318b941^80d4de684318b941^---0#0#1#-19%DVTDocumentLocation2@160"file://localhost/Users/jesse/Documents/Final%20Proj%20Crohn's/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png0038b0eedcffdf42^703"CpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png    cd "/Users/jesse/Documents/Final Proj Crohn's/Chrons-hanmergetry"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/infotab2.png /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"08415FAB-1EFB-48B5-A1B8-1BD581763400-
-b49329A24-31D2-4F0F-8D8A-771D1297F31C
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png110"CpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.pngb35ce68c8918b941^7de72f8d8918b941^-100"error: /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/infotab2.png: No such file or directory1(21%IDEActivityLogMessage2@99"error: /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/infotab2.png: No such file or directory-421038477#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#1#-19%DVTDocumentLocation4@141"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png0000000000000000^650"CpResource Chrons/infotab2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/infotab2.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/infotab2.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"60281D05-7A7A-4C00-B63B-8A56FF6B3A0A-
+bA745D556-4887-47B8-A370-97AC4ECB7D8B
 
 CCpResource Chrons/meal.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/meal.png
 s421020520.861371
@@ -2236,6 +2347,26 @@ xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png102"CpResource Chrons/pain.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.pngcf13cb684318b941^a41cdc684318b941^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/jesse/Documents/Final%20Proj%20Crohn's/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png0038b0eedcffdf42^691"CpResource Chrons/pain.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/pain.png    cd "/Users/jesse/Documents/Final Proj Crohn's/Chrons-hanmergetry"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/pain.png /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"4C3BEF00-A131-429B-92A9-F44071A3FB5A-
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
+CCpResource Chrons/qmark.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png
+s421036968.347913
+e421036968.350210
+r1
+xCpResource
+xChrons/qmark.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png104"CpResource Chrons/qmark.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.pnge92659a88318b941^32746ca88318b941^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png0038b0eedcffdf42^641"CpResource Chrons/qmark.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/qmark.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"12817541-70D3-4356-B9ED-EA9B17838AC6-
+b932CC8BC-6C3C-42A4-9BE7-F1E96B3EA148
+
+CCpResource Chrons/qmark2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png
+s421038476.899399
+e421038476.901495
+r1
+xCpResource
+xChrons/qmark2.png
+xDerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png106"CpResource Chrons/qmark2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png1153e68c8918b941^601d0b8d8918b941^---0#0#1#-19%DVTDocumentLocation2@139"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png0000000000000000^644"CpResource Chrons/qmark2.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/qmark2.png    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/qmark2.png /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"5A44E6DC-9F67-4E45-8426-F82E54CA9198-
+bA745D556-4887-47B8-A370-97AC4ECB7D8B
+
 CCpResource Chrons/settings.png DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/settings.png
 s421020520.792670
 e421020520.859707
@@ -2257,14 +2388,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy De
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CGenerateDSYMFile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
-s421033446.623178
-e421033446.779546
+s421042115.322326
+e421042115.512537
 r1
 xGenerateDSYMFile
 x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM
 x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM162"GenerateDSYMFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons0b999fe67518b941^1d91c7e67518b941^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM/0000000000000000^752"GenerateDSYMFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM36"6AB33A8B-C040-4224-B63F-0230B504ED11-
-bE38677EE-F0EB-43BF-83DA-41BF87E8CA5F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM162"GenerateDSYMFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons969552c39718b941^8b3683c39718b941^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM/0000000000000000^752"GenerateDSYMFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM36"24B40011-59A7-4D26-87A6-B93F893EB8F6-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CGenerateDSYMFile /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app.dSYM /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
 s421020528.117297
@@ -2277,8 +2408,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Genera
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CLd /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_64
-s421033441.706088
-e421033441.744188
+s421042106.413176
+e421042107.355496
 r1
 xLd
 x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons
@@ -2343,12 +2474,12 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
 d/usr/lib/system/libcompiler_rt.dylib
 d/usr/lib/system/libcopyfile.dylib
 d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
 d/usr/lib/system/libkeymgr.dylib
 d/usr/lib/system/liblaunch.dylib
 d/usr/lib/system/libmacho.dylib
@@ -2364,8 +2495,9 @@ d/usr/lib/system/libsystem_notify.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons90"Ld DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_6452d5b4e17518b941^9885bee17518b941^---0#0#1#--1586"Ld DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_64    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -filelist /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Chrons.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -lsqlite3.0 -lsqlite3 -framework MessageUI -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Chrons_dependency_info.dat -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons36"3F8E2B92-0F75-4E84-BA8E-3E066437AF3F-
-bE38677EE-F0EB-43BF-83DA-41BF87E8CA5F
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons90"Ld DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_64cfda69ba9718b941^f7025bbb9718b941^---0#0#1#--1586"Ld DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_64    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -F/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator -filelist /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Chrons.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -lsqlite3.0 -lsqlite3 -framework MessageUI -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/Objects-normal/x86_64/Chrons_dependency_info.dat -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons36"63B4CD85-F8D3-464D-AC4F-BA8254497358-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CLd /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Chrons normal x86_64
 s421020520.291379
@@ -2460,7 +2592,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /
 b49329A24-31D2-4F0F-8D8A-771D1297F31C
 
 CProcessInfoPlistFile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist
-r0
+s421042115.266485
+e421042115.313611
+r1
+xProcessInfoPlistFile
+x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist
+x/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist123"ProcessInfoPlistFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist Chrons/Chrons-Info.plistb14f44c39718b941^414a50c39718b941^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist0000000000000000^984"ProcessInfoPlistFile DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist Chrons/Chrons-Info.plist    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jesse/Documents/FinalProject/CrohnsApp/Chrons/Chrons-Info.plist -genpkginfo /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Intermediates/Chrons.build/Debug-iphonesimulator/Chrons.build/assetcatalog_generated_info.plist -o /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist36"093F0FF2-1B0F-41AC-BD54-5915F0F37E4D-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CProcessInfoPlistFile /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app/Info.plist /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Chrons/Chrons-Info.plist
 s421020528.091351
@@ -2509,13 +2648,13 @@ CProcessPCH /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/Deri
 r0
 
 CTouch /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app
-s421028692.786374
-e421028692.860299
+s421042115.522123
+e421042115.570355
 r1
 xTouch
 x/Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app72"Touch DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app8061c9546318b941^703fdc546318b941^---0#0#1#--456"Touch DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"036F0F53-154A-466D-A895-BCAC38A3C0F9-
-b6A73F16A-AB92-4900-9117-FD90CBCA7565
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app72"Touch DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.appdbc485c39718b941^f30492c39718b941^---0#0#1#--456"Touch DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app    cd /Users/jesse/Documents/FinalProject/CrohnsApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jesse/Documents/FinalProject/CrohnsApp/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app36"1FEDAD1A-AAA4-4D96-A332-41165599B37F-
+bFC2D9BD1-A668-40E7-86C4-1A1BB44569B4
 
 CTouch /Users/jesse/Documents/Final\ Proj\ Crohn\'s/Chrons-hanmergetry/DerivedData/Chrons/Build/Products/Debug-iphonesimulator/Chrons.app
 r0

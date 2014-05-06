@@ -37,6 +37,15 @@ CGSize pageSize;
 
 - (void)viewDidLoad
 {
+    father_info.layer.cornerRadius = 5;
+    father_info.layer.borderWidth = 0.5f;
+    father_info.layer.borderColor = [[UIColor grayColor] CGColor];
+    mother_info.layer.cornerRadius = 5;
+    mother_info.layer.borderWidth = 0.5f;
+    mother_info.layer.borderColor = [[UIColor grayColor] CGColor];
+    other_info.layer.cornerRadius = 5;
+    other_info.layer.borderWidth = 0.5f;
+    other_info.layer.borderColor = [[UIColor grayColor] CGColor];
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     

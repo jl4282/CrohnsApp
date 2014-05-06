@@ -69,7 +69,7 @@ NSDate* _storing_date_data;
     
     NSLog(@"Button Pressed");
     
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"" message:@"Is this the correct information?" delegate:self cancelButtonTitle:@"Yes" otherButtonTitles:@"cancel", nil];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"" message:@"Is this the correct information?" delegate:self cancelButtonTitle:@"Yes" otherButtonTitles:@"Cancel", nil];
     
     [alert show];
     

@@ -18,6 +18,7 @@
 
 @synthesize dname_tf;
 @synthesize demail_tf;
+@synthesize dnote_tf;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -32,7 +33,9 @@
 
 - (void)viewDidLoad
 {
-    [super viewDidLoad];
+    dnote_tf.layer.cornerRadius = 5;
+    dnote_tf.layer.borderWidth = 0.5f;
+    dnote_tf.layer.borderColor = [[UIColor grayColor] CGColor];
  
     
     UITapGestureRecognizer *tap =[[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(dismissKeyBoard)];
@@ -66,6 +69,7 @@
 
     [demail_tf resignFirstResponder];
     [dname_tf resignFirstResponder];
+    [dnote_tf resignFirstResponder];
     
 }
 

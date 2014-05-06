@@ -22,8 +22,12 @@
 -(void) viewDidLoad
 {
     self.tabBarController.title = @"Information";
-    [text_view setEditable:FALSE];
+    //[text_view setEditable:FALSE];
     
+}
+
+-(void) viewDidAppear:(BOOL)no{
+    self.tabBarController.title = @"Information";
 }
 
 @end
