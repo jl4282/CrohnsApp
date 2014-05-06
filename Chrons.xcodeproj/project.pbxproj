@@ -45,6 +45,7 @@
 		8844B61919188ED100AD23BB /* SendMail.png in Resources */ = {isa = PBXBuildFile; fileRef = 8844B61819188ED100AD23BB /* SendMail.png */; };
 		8844B61B191891CB00AD23BB /* SendMail2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8844B61A191891CA00AD23BB /* SendMail2.png */; };
 		8844B61D1918966200AD23BB /* LOGButton2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8844B61C1918966200AD23BB /* LOGButton2.png */; };
+		888A1B801918B68200EBE2BE /* MedAlarm.m in Sources */ = {isa = PBXBuildFile; fileRef = 888A1B7F1918B68200EBE2BE /* MedAlarm.m */; };
 		8895158919184325009E3589 /* tabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895158819184325009E3589 /* tabViewController.m */; };
 		8895158C19184330009E3589 /* StringAndNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895158B19184330009E3589 /* StringAndNumber.m */; };
 		8895158F1918433A009E3589 /* BM.m in Sources */ = {isa = PBXBuildFile; fileRef = 8895158E1918433A009E3589 /* BM.m */; };
@@ -119,6 +120,8 @@
 		8844B61819188ED100AD23BB /* SendMail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SendMail.png; sourceTree = "<group>"; };
 		8844B61A191891CA00AD23BB /* SendMail2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SendMail2.png; sourceTree = "<group>"; };
 		8844B61C1918966200AD23BB /* LOGButton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGButton2.png; sourceTree = "<group>"; };
+		888A1B7E1918B68200EBE2BE /* MedAlarm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MedAlarm.h; sourceTree = "<group>"; };
+		888A1B7F1918B68200EBE2BE /* MedAlarm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MedAlarm.m; sourceTree = "<group>"; };
 		8895158719184325009E3589 /* tabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tabViewController.h; sourceTree = "<group>"; };
 		8895158819184325009E3589 /* tabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tabViewController.m; sourceTree = "<group>"; };
 		8895158A19184330009E3589 /* StringAndNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringAndNumber.h; sourceTree = "<group>"; };
@@ -213,6 +216,8 @@
 				8895158E1918433A009E3589 /* BM.m */,
 				7192E88B1911BAE900FFFB04 /* family_history.h */,
 				88AC7DE8191736C4009DC02E /* Main.storyboard */,
+				888A1B7E1918B68200EBE2BE /* MedAlarm.h */,
+				888A1B7F1918B68200EBE2BE /* MedAlarm.m */,
 				7192E88C1911BAE900FFFB04 /* family_history.m */,
 				56A0BD0E18F0F8C200B07008 /* AppDelegate.h */,
 				56A0BD0F18F0F8C200B07008 /* AppDelegate.m */,
@@ -411,6 +416,7 @@
 				8895158F1918433A009E3589 /* BM.m in Sources */,
 				88AC7DE219172D16009DC02E /* Home.m in Sources */,
 				56D990A518F7BD7A0094C4B4 /* pain.m in Sources */,
+				888A1B801918B68200EBE2BE /* MedAlarm.m in Sources */,
 				8895158919184325009E3589 /* tabViewController.m in Sources */,
 				88AC7DE719173406009DC02E /* ClickedButtons.m in Sources */,
 				8895159519184359009E3589 /* analysis.m in Sources */,

@@ -93,6 +93,9 @@
                                 <state key="normal" title="Button" image="medtimes.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="dK6-Ot-dbP" kind="push" id="cJu-am-gGG"/>
+                                </connections>
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Med" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="0lc-XE-WRe">
                                 <rect key="frame" x="37" y="292" width="35" height="21"/>
@@ -1083,6 +1086,22 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA
                 <placeholder placeholderIdentifier="IBFirstResponder" id="N0K-fs-RmD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="290" y="-532"/>
+        </scene>
+        <!--Log Alarm-->
+        <scene sceneID="QJd-19-nKR">
+            <objects>
+                <viewController title="MedAlarm" id="dK6-Ot-dbP" userLabel="Log Alarm" customClass="MedAlarm" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="6r2-66-q76">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Med Alarms" id="0ch-nk-gpd"/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gD4-wP-06U" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-970" y="-1126"/>
         </scene>
     </scenes>
     <resources>
